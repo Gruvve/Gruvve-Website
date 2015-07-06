@@ -1,0 +1,57 @@
+.navbar {
+    margin: 0;
+    padding: 0 20px;
+}
+
+.banner {
+    background-color: #d24726;
+    border-bottom: 1px solid #961803;
+    height: 350px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.banner > img {
+    height: 80%;
+    margin-top: 35px;
+}
+
+.info {
+    margin: 0 auto;
+    overflow: auto;
+    padding: 30px;
+    width: 95%;
+}
+
+.info img {
+    width: 100%;
+}
+
+.info .text {
+    margin: 50px 20px;
+}
+
+.info .text > a {
+    padding-right: 30px;
+}
+
+.info .text > a > img {
+    height: 44px;
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+.info .text > .title {
+    font-size: 24px;
+    font-weight: 250;
+    margin: 0 0 15px 0;
+}
+
+.info .text > p {
+    font-size: 15px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
